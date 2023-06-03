@@ -5,3 +5,4 @@ Pillow==9.5.0
 streamlit==1.21.0
 torch==2.0.0
 transformers==4.28.1
+cohere
