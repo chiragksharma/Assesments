@@ -1,5 +1,5 @@
 ---
-title: Image Creative Caption New
+title: Image Creative Caption and hashtag generator 
 emoji: ⚡
 colorFrom: indigo
 colorTo: red
